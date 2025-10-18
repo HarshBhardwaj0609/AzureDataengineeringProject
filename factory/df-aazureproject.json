@@ -1,0 +1,9 @@
+{
+	"name": "df-aazureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2672a5f2-d78b-4c06-95d4-8d746d0f5aa7",
+		"tenantId": "4dbc133b-ab01-45a5-9762-76843f08b595"
+	}
+}
